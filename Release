@@ -1,0 +1,8 @@
+Origin: iGGTicket
+Label: iGGTicket source
+Suite: stable 
+Version: 1.0
+Codename: iGGTicket
+Architectures: iphoneos-arm
+Components: main
+Description: The repository for iGG activation ticket
